@@ -14,7 +14,7 @@ TOTAL                               2      1      0      0    50%
 ```
 
 ```
-$ IMPORT_PEP420=true make
+$ IMPORT=true make
 coverage run runme.py && coverage report
 Name                            Stmts   Miss Branch BrPart  Cover   Missing
 ---------------------------------------------------------------------------

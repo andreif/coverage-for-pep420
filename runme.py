@@ -1,5 +1,5 @@
 import os
-from testme.normal.sub import testme
 
-if os.environ.get('IMPORT_PEP420'):
+if os.environ.get('IMPORT'):
+    from testme.normal.sub import testme
     from testme.pep420.sub import testme
