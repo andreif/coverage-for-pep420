@@ -8,9 +8,9 @@ Name                            Stmts   Miss Branch BrPart  Cover   Missing
 testme/__init__.py                  0      0      0      0   100%
 testme/normal/__init__.py           0      0      0      0   100%
 testme/normal/sub/__init__.py       0      0      0      0   100%
-testme/normal/sub/testme.py         2      1      0      0    50%   4
+testme/normal/sub/testme.py         2      2      0      0     0%   3-4
 ---------------------------------------------------------------------------
-TOTAL                               2      1      0      0    50%
+TOTAL                               2      2      0      0     0%
 ```
 
 ```
